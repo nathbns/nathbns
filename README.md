@@ -13,4 +13,4 @@
 🌱 **Interests**:
 
 — Building products. <br>
-— Learning new concepts / programming languages
+— Learning ML / programming languages
