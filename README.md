@@ -12,5 +12,5 @@
 
 **Interests**:
 
-— Building products. <br>
+— i like neural net. <br>
 — Learning ML / programming languages
