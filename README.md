@@ -14,4 +14,5 @@
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/nattendcs?theme=dark&font=Gloria%20Hallelujah&ext=heatmap) -->
 
+low level programming, dsa, just like to program. <br>
 i like neural net. <br>
