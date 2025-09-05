@@ -1,6 +1,6 @@
 ### Hi.
 
-2025 – present · Computer Science Engineer student — Year 3 <br>
+2025 – present · BSc Computer Science — Year 3 (current year) <br>
 2024 - 2025 · BSc Computer Science — Year 2 (ranked 7 / 160) <br>
 2023 - 2024 · BSc Computer Science — Year 1 (ranked 3 / 338)
 
