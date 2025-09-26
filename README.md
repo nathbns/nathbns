@@ -9,8 +9,7 @@
     <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c" />
   </a>
 </p> -->
-
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/nattendcs?theme=dark&font=Gloria%20Hallelujah&ext=heatmap) -->
-
 low level programming, dsa, just like to program. <br>
 i like neural net. <br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/nattendcs?theme=dark&font=Red%20Hat%20Text&ext=heatmap)
